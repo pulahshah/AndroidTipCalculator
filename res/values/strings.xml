@@ -8,4 +8,6 @@
     <string name="fifteen_percent">15%</string>
     <string name="twenty_percent">20%</string>
     
+    <string name="enter_hint">Enter bill amount</string>
+    <string name="tip_amount">Tip Amount:</string>
 </resources>

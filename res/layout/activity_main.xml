@@ -16,7 +16,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="48dp"
         android:ems="10"
-        android:hint="Enter bill amount"
+        android:hint="@string/enter_hint"
         android:inputType="numberDecimal" >
 
         <requestFocus />
@@ -63,7 +63,7 @@
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/linearLayout1"
         android:layout_marginTop="44dp"
-        android:text="Tip Amount:"
+        android:text="@string/tip_amount"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
